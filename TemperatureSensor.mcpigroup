@@ -1,0 +1,16 @@
+[PROJECTS]
+Count=12
+Project0=..\..\LED\LEDBlinking\LEDBlinking.mcppi
+Project1=..\..\LED\LEDBlinking2\LEDBlinking2.mcppi
+Project2=..\..\LCD\LCD1\LCD1.mcppi
+Project3=..\..\LCD\LCD2\LCD2.mcppi
+Project4=..\..\LCD\LCD3\LCD3.mcppi
+Project5=..\..\LCD\Keypad\Keypad.mcppi
+Project6=..\..\Motor\Stepper\StepperMortor.mcppi
+Project7=..\..\Motor\Servo\ServoMortor.mcppi
+Project8=..\..\Sounder\Sounder.mcppi
+Project9=..\..\LDR\LDR.mcppi
+Project10=..\IR\IRSensor.mcppi
+Project11=TemperatureSensor.mcppi
+[ActiveProject]
+Index=11
